@@ -1,5 +1,6 @@
 ### Hey, I'm Agalya Karthik
 Here's a little bit about myself...
+
 Experienced Lead data analyst specializing in data preprocessing for machine learning, exploratory data analysis (EDA), and statistical analysis in the healthcare sector. Skilled in data extraction, transformation, and loading into PostgreSQL, ensuring efficient data management. Proficient in creating KPI Tableau dashboards and generating ad-hoc reports, leveraging Python libraries like NumPy, Pandas, Seaborn, and Scikit-learn to uncover patterns and drive business decisions. With 8+ years in management and leadership, I excel in strategic problem-solving and navigating challenges with a tech-savvy approach.
 
 **💬 Primary Skills**
