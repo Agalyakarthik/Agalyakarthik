@@ -26,6 +26,8 @@ Experienced Lead data analyst specializing in data preprocessing for machine lea
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agalya-karthik)|[Tableau](https://public.tableau.com/app/profile/agalya.karthik/vizzes)| agalyakarthik20@gmail.com
 -
 🤘 Here are some of my projects:
+**[Project Repository](https://github.com/Agalyakarthik/pads-parkinsons-disease-smartwatch-dataset-PROJECT)**`
+
 
 📝 Here is my most recent achievements:
 
