@@ -22,7 +22,7 @@ Experienced Lead data analyst specializing in data preprocessing for machine lea
 - Enhancing my expertise in data preprocessing for predictive modeling.
 - Learning supervised and unsupervised predictive modeling from scratch to deepen my understanding of machine learning techniques.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agalya-karthik)|[Tableau](https://public.tableau.com/app/profile/agalya.karthik/vizzes)|  agalyakarthik20@gmail.com
+**📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agalya-karthik)|[Tableau](https://public.tableau.com/app/profile/agalya.karthik/vizzes)|  agalyakarthik20@gmail.com**
 -
 🤘 Here are some of my projects:
 
