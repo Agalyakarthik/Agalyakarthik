@@ -27,4 +27,6 @@ Experienced Lead data analyst specializing in data preprocessing for machine lea
 -
 🤘 Here are some of my projects:
 
+📝 Here is my most recent achievements:
+
 
