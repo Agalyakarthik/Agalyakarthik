@@ -29,6 +29,6 @@ Experienced Lead data analyst specializing in data preprocessing for machine lea
 **[PADS Project Repository](https://github.com/Agalyakarthik/pads-parkinsons-disease-smartwatch-dataset-PROJECT)**`
 
 
-📝 Here is my most recent achievements:
+📝 Here is my most recent achievements:[Entry Certificate in Business Analysis™IIBA](https://badges.iiba.org/709b81d0-359d-4f8f-8586-ede7d5e92016)
 
 
