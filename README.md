@@ -17,9 +17,10 @@ Experienced Lead data analyst specializing in data preprocessing for machine lea
 - Conflict Resolution & Negotiation
 - Data-Driven Decision Making
 - Cross-Functional Team Management
+- Prompt Engineering 
   
 **🧑🏻‍🏫 Here's what I am currently learning:**
-- Expanding my knowledge in AI agents and browser automation using LangChain to streamline job application processes.
+- Leveraging LangChain and LangGraph to build Agentic AI solutions that automate LinkedIn job application processes through browser automation.
 - Enhancing my expertise in data preprocessing for predictive modeling.
 - Learning supervised and unsupervised predictive modeling from scratch to deepen my understanding of machine learning techniques.
 
