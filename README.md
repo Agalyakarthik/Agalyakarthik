@@ -1,36 +1,56 @@
-### Hey, I'm Agalya Karthik
-Here's a little bit about myself...
+ # Hi, I'm Agalya Karthik 👋
 
-Experienced data analyst specializing in data preprocessing for machine learning, exploratory data analysis (EDA), and statistical analysis in the healthcare sector. Skilled in data extraction, transformation, and loading into PostgreSQL, ensuring efficient data management. Proficient in creating KPI Tableau dashboards and generating ad-hoc reports, leveraging Python libraries like NumPy, Pandas, Seaborn, and Scikit-learn to uncover patterns and drive business decisions. 
+Product Owner with a data analytics background, focused on AI and healthcare products.
+I own the vision, roadmap and prioritized backlog, and turn user and stakeholder needs
+into sprint-ready user stories with clear acceptance criteria, working daily with
+developers and data engineers in Agile/Scrum teams. My analyst experience (data
+preprocessing for machine learning, EDA and statistical analysis in healthcare, ETL
+into PostgreSQL, KPI dashboards in Tableau) lets me define requirements and accept
+work against real data.
 
-**💬 Primary Skills**
-- Data Wrangling: Python
-- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
-- Data Cleaning: Python, SQL
-- Feature Engineering & Selection
-- Statistical Analysis & Outlier Detection
-- Strategic Decision-Making
-- Team Leadership & Development
-- Problem-Solving & Critical Thinking
-- Effective Communication & Collaboration
-- Stakeholder Engagement & Relationship Building
-- Conflict Resolution & Negotiation
-- Data-Driven Decision Making
-- Cross-Functional Team Management
-- Prompt Engineering 
-  
-**🧑🏻‍🏫 Here's what I am currently learning:**
-- Leveraging LangChain and LangGraph to build Agentic AI solutions that automate LinkedIn job application processes through browser automation.
-- Enhancing my expertise in data preprocessing for predictive modeling.
-- Learning supervised and unsupervised predictive modeling from scratch to deepen my understanding of machine learning techniques.
+SAFe® POPM | Certified Business Analyst (ECBA) | AWS AI Practitioner Challenge
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agalya-karthik)|[Tableau](https://public.tableau.com/app/profile/agalya.karthik/vizzes)| agalyakarthik20@gmail.com
--
-🤘 Here are some of my projects:
-**[PADS Project Repository](https://github.com/Agalyakarthik/pads-parkinsons-disease-smartwatch-dataset-PROJECT)**`
-**[ORCHID Project Repository](https://github.com/Agalyakarthik/ORCHID-Data-Set)**
+## 💬 Primary Skills
 
+**Product**
+* Product Vision & Roadmapping
+* Backlog Prioritization, User Stories & Acceptance Criteria
+* Agile/Scrum, SAFe®, Sprint Planning (Jira, Trello)
+* Stakeholder Engagement & Relationship Building
+* Strategic Decision-Making
+* Conflict Resolution & Negotiation
+* Cross-Functional Team Management, Team Leadership & Development
+* Effective Communication & Collaboration
 
-📝 Here is my most recent achievements: [Entry Certificate in Business Analysis™IIBA](https://badges.iiba.org/709b81d0-359d-4f8f-8586-ede7d5e92016)
+**Data & Analytics**
+* Data Wrangling & Cleaning: Python (Pandas, NumPy), SQL, PostgreSQL
+* Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+* Feature Engineering & Selection, Statistical Analysis & Outlier Detection
+* Data-Driven Decision Making, Problem-Solving & Critical Thinking
+
+**AI**
+* Prompt Engineering, LLM Workflows (Gemini, Claude, OpenAI)
+* RAG, Guardrails & Human-in-the-Loop Design, n8n Automation
+
+## 🚀 Products I've Delivered
+* **Personalized Diet Recipe Generator:** LLM + USDA data with deterministic nutrition
+  validation. Recipe accuracy up 25%, manual data prep down 70%.
+* **GitHub Analyzer:** real-time repo analytics, adopted by 3 teams, improving delivery by 15%.
+* **NL2SQL Explorer:** plain-English data questions turned into executable SQL.
+* **Seaborn Assistant (Amazon PartyRock):** generates plotting code from a dataset description, with no data upload.
+* **ICU Sepsis KPI Dashboard:** Tableau dashboard that improved operational efficiency by 30%.
+
+## 🧑🏻‍🏫 Currently Learning
+* Building Agentic AI solutions with LangChain and LangGraph that automate LinkedIn
+  job application processes through browser automation.
+* Strengthening data preprocessing for predictive modeling.
+* Supervised and unsupervised predictive modeling from scratch, to deepen my
+  understanding of machine learning techniques.
+
+## 🔗 Find Me
+[LinkedIn](https://www.linkedin.com/in/agalya-karthik/) ·
+[Medium](https://medium.com/@akalsravindran08) ·
+[Tableau Public](https://public.tableau.com/app/profile/agalya.karthik/vizzes)
+
 
 
